@@ -1,0 +1,1 @@
+tinyMCE.addI18n('bg.ibrowser_dlg',{ title:"Вмъкни картинка", });
